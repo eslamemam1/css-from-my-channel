@@ -1,0 +1,19 @@
+/* 
+Simple selectors (select elements based on name, id, class)
+ */
+
+/*
+*{
+    font-size: 50px;
+}
+p.name{
+    color: red;
+}
+.age{
+    color: blue;
+}
+*/
+
+h1,p{
+    font-size: 50px;
+}
